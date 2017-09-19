@@ -43,7 +43,7 @@ Every text strings has been stored in flash memory to mantain a lot of free RAM 
 
 Added features to original Patolin code:
 
-- 3 digital buttons input for menu (Enter/Select) (Down/Next) (Up/Previous) [previously analogics]
+- 3 digital buttons input for menu (Enter/Select) (Down/Next) (Up/Previous) [previously analogs]
 
 - Switches checking status with sound alert at power ON and display which is not in default position 
 
