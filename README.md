@@ -7,6 +7,8 @@
 
 ----------------------------------------------------------------------------------------------------------
 
+![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/Model.png)
+
 Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
 
 
