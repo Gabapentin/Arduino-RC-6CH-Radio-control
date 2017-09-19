@@ -23,7 +23,7 @@ Have been used all possible pins of ATmega328 (Arduino UNO, Nano, Pro Mini)
 
 Every text strings has been stored in flash memory to mantain a lot of free RAM memory
 
-*************************************************************************************************************
+----------------------------------------------------------------------------------------------------------
 
 Added features to original Patolin code:
 
@@ -52,6 +52,10 @@ Recommended Arduino IDE 1.8.2 (Seems to be optimized and stable compiler. Less F
 Arduino AVR Boards 1.6.18
 
 #include <U8g2lib.h>               Using U8G2 library "https://github.com/olikraus/u8g2"
+
+#include <SPI.h>                   Arduino standard library
+
+#include <EEPROM.h>                Arduino standard library
 
 *************************************************************************************************************
 
