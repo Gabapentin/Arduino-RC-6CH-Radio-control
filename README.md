@@ -1,5 +1,11 @@
 # Arduino-RC-6CH-Radio-control
+
+![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/Screen_0.png)
+
 Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
+
+
+	
 
 This code is based on ardutx v1.3 sketch (2014) from Patricio Reinoso www.patolin.com
 
@@ -59,6 +65,6 @@ Arduino AVR Boards 1.6.18
 
 *************************************************************************************************************
 
-![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/Screen_0.png)
+
 
 
