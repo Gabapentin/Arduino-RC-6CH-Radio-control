@@ -10,6 +10,7 @@
 ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/Model.png)
 ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/Sub_Trim.png)
 ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/Switch_Warning.png)
+![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/Calibration.png)
 
 Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
 
@@ -71,9 +72,3 @@ Arduino AVR Boards 1.6.18
 #include <SPI.h>                   Arduino standard library
 
 #include <EEPROM.h>                Arduino standard library
-
-*************************************************************************************************************
-
-
-
-
