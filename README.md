@@ -75,7 +75,7 @@ Recommended Arduino IDE 1.8.2 (Seems to be optimized and stable compiler. Less F
 
 Arduino AVR Boards 1.6.18
 
-#include <U8g2lib.h>               Using U8G2 library "https://github.com/olikraus/u8g2"
+#include <U8g2lib.h>               Using U8G2 library **[UG2 Github link](https://github.com/olikraus/U8g2_Arduino)**
 
 #include <SPI.h>                   Arduino standard library
 
