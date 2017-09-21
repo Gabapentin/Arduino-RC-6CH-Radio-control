@@ -27,9 +27,13 @@ Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters
 
 This code is based on ardutx v1.3 sketch (2014) from Patricio Reinoso www.patolin.com
 
-You can see discussion on RCGroups Forum site 
+**You can see discussion on RCGroups Forum site** 
 
 https://www.rcgroups.com/forums/showthread.php?1817699-Hobbyking-6ch-tx-arduino-computer-update
+
+
+**If you want discuss this project I have already open thread on RCGroups**    
+https://www.rcgroups.com/forums/showthread.php?2959179-Arduino-radio-for-HK-T6A-or-Flysky-FS-CT6B-(ArduTX-rebirth) 
 
 ----------------------------------------------------------------------------------------------------------
 
