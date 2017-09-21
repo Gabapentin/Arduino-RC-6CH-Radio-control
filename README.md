@@ -20,15 +20,11 @@
 | ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/FS_CT6B_160.png)  |        | ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/HK_T6A_160.png)  |    
 
 
-Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX
+Arduino project to upgrade cheap Hobbyking HK-T6A or Flysky FS-CT6B transmitters or any other old RC TX    
 
+This code is based on ardutx v1.3 sketch (2014) from Patricio Reinoso www.patolin.com    
 
-	
-
-This code is based on ardutx v1.3 sketch (2014) from Patricio Reinoso www.patolin.com
-
-**You can see discussion on RCGroups Forum site** 
-
+**You can see discussion on RCGroups Forum site**
 https://www.rcgroups.com/forums/showthread.php?1817699-Hobbyking-6ch-tx-arduino-computer-update
 
 
