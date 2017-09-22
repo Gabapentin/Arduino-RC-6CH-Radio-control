@@ -31,16 +31,6 @@ https://www.rcgroups.com/forums/showthread.php?1817699-Hobbyking-6ch-tx-arduino-
 **If you want discuss this project I have already open thread on RCGroups**    
 https://www.rcgroups.com/forums/showthread.php?2959179-Arduino-radio-for-HK-T6A-or-Flysky-FS-CT6B-(ArduTX-rebirth) 
 
-----------------------------------------------------------------------------------------------------------
-
-A great Patolin idea to upgrade cheap HK-T6A or FS-CT6B transmitters or any other old RC TX
-
-These transmitters offer a configuration through a serial port with an external PC software program
-
-and no space to store more than one model.
-
-----------------------------------------------------------------------------------------------------------
-
 The code has been modified to work with SH1106 SPI 1.3" or SSD1306 SPI 0.96" OLED LCD through U8g2 library
 
 Have been used all possible pins of ATmega328 (Arduino UNO, Nano, Pro Mini)
