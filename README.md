@@ -15,8 +15,8 @@
 
 
 
-| FS-CT6B | ----------------------------------------- | HK-T6A |
-| ------- | ----------------------------------------- | ------ |
+| FS-CT6B |       | HK-T6A |
+| ------- | :---: | ------ |
 | ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/FS_CT6B_160.png) | ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/RX6CH240.png) | ![alt text](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/blob/master/Docs/Images/HK_T6A_160.png) |    
 
 
