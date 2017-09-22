@@ -72,7 +72,6 @@ Added features to original Patolin code:
 *************************************************************************************************************
 
 Recommended Arduino **[Arduino IDE 1.8.2](https://www.arduino.cc/en/main/software)**    
-
 (Seems to be optimized and stable compiler. Less Flash and RAM used)
 
 Arduino AVR Boards 1.6.18
