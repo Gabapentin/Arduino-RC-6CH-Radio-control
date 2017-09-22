@@ -31,6 +31,8 @@ https://www.rcgroups.com/forums/showthread.php?1817699-Hobbyking-6ch-tx-arduino-
 **If you want discuss this project I have already open thread on RCGroups**    
 https://www.rcgroups.com/forums/showthread.php?2959179-Arduino-radio-for-HK-T6A-or-Flysky-FS-CT6B-(ArduTX-rebirth) 
 
+----------------------------------------------------------------------------------------------------------
+
 The code has been modified to work with SH1106 SPI 1.3" or SSD1306 SPI 0.96" OLED LCD through U8g2 library
 
 Have been used all possible pins of ATmega328 (Arduino UNO, Nano, Pro Mini)
