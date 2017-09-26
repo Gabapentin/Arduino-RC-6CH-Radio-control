@@ -7,7 +7,7 @@ U8G2_SH1106_128X64_NONAME_1_4W_HW_SPI u8g2(U8G2_R0, /* cs=*/ 10, /* dc=*/ 9, /* 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 /* SPI wires cabling (Pin LCD name depend on the manufacturer)
 
-  LCD    Arduino
+  OLED   Arduino
   ---------------------
   RES  > pin 8
   DC   > pin 9
