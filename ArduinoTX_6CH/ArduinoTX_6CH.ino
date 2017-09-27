@@ -18,7 +18,7 @@
 // These transmitters offer a configuration through a serial port with an external PC software program
 // and no space to store more than one model.
 // *************************************************************************************************************
-// This sketch has been modified to work with SH1106 SPI 1.3" or SSD1306 SPI 0.96" OLED LCD through U8g2 library
+// This sketch has been modified to work with SH1106 SPI 1.3" or SSD1306 SPI 0.96" OLED display through U8g2 library
 // Has been used all possible pins of ATmega328 (Arduino UNO, Nano, Pro Mini)
 // Every text strings has been stored in flash memory to mantain a lot of free RAM memory
 // Sketch terms, text, items has been translated in English to ease users/developers
