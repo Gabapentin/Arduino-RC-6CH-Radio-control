@@ -74,4 +74,4 @@ Arduino AVR Boards 1.6.18
 
 #include <EEPROM.h>                Arduino standard library    
 
-### **[I'm working to make a Wiki pages](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/wiki)**
+### **[See Wiki pages](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/wiki)**
