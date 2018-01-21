@@ -1,4 +1,5 @@
-#### This directory contains all files for Arduino Nano one layer PCB shield (60x40mm dimension)   
+### **Please remember at this time is only prototype** ###    
+This directory contains all files for Arduino Nano one layer PCB shield (60x40mm dimension)   
 #### This shield will provide directly battery power to TX module like **[Multiprotocol](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)** or FRSKY/FLYSKY external module     
 
 ### **DO NOT USE this PCB for Hobbyking HK-T6A or Flysky FS-CT6B original Transmitter module**
