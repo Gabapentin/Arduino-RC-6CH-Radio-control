@@ -1,4 +1,4 @@
-### **Please remember at this time is only prototype will be modified!** ###    
+### **Please remember at this time It's only prototype. Will be modified!** ###    
 #### This directory contains all files for Arduino Nano one layer PCB shield (60x40mm dimension)   
 #### This shield will provide directly battery power to TX module like **[Multiprotocol](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)** or FRSKY/FLYSKY external module     
 
