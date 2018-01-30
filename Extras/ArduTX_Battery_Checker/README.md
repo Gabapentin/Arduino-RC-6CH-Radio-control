@@ -11,8 +11,8 @@ with low battery alarm functionality through OLED display (without connecting bu
    
    - If you want a correct visualization of values after uploading sketch in Arduino    
      is necessary remove USB programming cable from PC because it makes readings unstable.  
-   - **[Must be used R1-10K/R2-10K voltage divider for 2S lion/LiPo battery](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/wiki/4.6-(Battery-Monitor-Wiring))**    
-   - **[Must be used R1-20K/R2-10K voltage divider for 3S lion/LiPo battery](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/wiki/4.6-(Battery-Monitor-Wiring))**
+   - **[Must be used R1-10K/R2-10K voltage divider for 2S(8.4V) lion/LiPo battery](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/wiki/4.6-(Battery-Monitor-Wiring))**    
+   - **[Must be used R1-20K/R2-10K voltage divider for 3S(12.6V) lion/LiPo battery](https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control/wiki/4.6-(Battery-Monitor-Wiring))**
    - **For 2S voltage divider do not over 10V, For 3S voltage divider do not over 15V.
      Otherwise Arduino pin will be fried.**
      
